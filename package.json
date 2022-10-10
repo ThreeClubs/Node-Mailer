@@ -1,0 +1,15 @@
+{
+  "name": "node-mailer",
+  "version": "1.0.0",
+  "description": "\"Testing out NodeMailer module\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.8.0"
+  }
+}
